@@ -2,6 +2,10 @@
 
 Hey there! This is my first chat application where I implemented Socket.IO along with Node.js and React.js. This application helped me understand the concept of how chat between two users works.
 
+<div style="padding: 10px;">
+    <img src="/simpleChat.png" alt="chat" style="width: 80%; padding: 10px;">
+</div>
+
 ## Overview
 
 The Simple Chat App with Socket.IO provides a basic chat functionality between two users. It's a great starting point for understanding how real-time communication works using Socket.IO.
