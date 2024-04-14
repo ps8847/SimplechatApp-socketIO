@@ -3,7 +3,7 @@ import io from "socket.io-client";
 import { useState } from "react";
 import ChatRoom from "./component/ChatRoom";
 
-const socket = io.connect("http://localhost:8000");
+const socket = io.connect("https://simplechatapp-socketio.onrender.com");
 
 function App() {
   const [username, setUserName] = useState("");
